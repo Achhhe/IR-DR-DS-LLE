@@ -9,7 +9,7 @@
 * [Dehazing](#dehazing)
 * [Low-light Enhancement](#low-light-enhancement)
 
-## Deraining
+## Deraining:cloud_with_lightning_and_rain:
 
 <div  align="center">    
 <img src="figs/derain/rain1200.png" width = "800"  alt="haha" align=center />   
@@ -44,7 +44,7 @@ Object detection results with/without deraining. The labels and corresponding co
 <img src="figs/high-level/hl1.png" width = "800"  alt="haha" align=center /> 
 </div>
 
-## Desnowing
+## Desnowing:snowflake:
 
 <div  align="center">    
 <img src="figs/desnow/desnow4.gif" width = "253"  alt="haha" align=center />
@@ -66,7 +66,7 @@ Object detection results with/without deraining. The labels and corresponding co
 
 [More desnowing results](./figs/desnow/)
 
-## Dehazing
+## Dehazing:fog:
 
 <div  align="center">    
 <img src="figs/dehaze/dehaze2.gif" width = "250" height="190"  alt="haha" align=center />
@@ -88,7 +88,7 @@ Object detection results with/without deraining. The labels and corresponding co
 
 [More deshazing results](./figs/dehaze/)
 
-## Low-light Enhancement
+## Low-light Enhancement:high_brightness:
 
 <div  align="center">    
 <img src="figs/lowlight/lowlight18.gif" width = "250"   alt="haha" align=center />
