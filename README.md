@@ -2,7 +2,7 @@
 
 **Recent works on image restoration** :smile:
 
-Including **high-quality image recovery (denoising, debluring and super-resolution)** with a event camera DAVIS240, and **image restoration (deraining, desnowing, dehazing, low-light enhancement)** in severe weather 
+Including **high-quality image recovery (denoising, debluring and super-resolution)** with an event camera DAVIS240, and **image restoration (deraining, desnowing, dehazing, low-light enhancement)** in severe weather 
 
 ## Contents
 
@@ -40,9 +40,7 @@ With super-resolution on synthetic (top) and real data (bottom)
 High frame-rate video reconstruction 
 </div>
 
-<video id="video" controls="" preload="none"   poster="http://media.w3.org/2010/05/sintel/poster.png">
-  <source id="mp4" src="figs/event/demo_video.mp4">
-</video>
+[![Event Enhanced High-Quality Image Recovery](figs/event/cover.jpg)](https://www.bilibili.com/video/bv1kg4y1i7aC)
 
 ## Deraining:cloud_with_lightning_and_rain:
 
