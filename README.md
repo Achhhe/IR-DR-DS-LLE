@@ -2,12 +2,47 @@
 
 **Recent works on image restoration** :smile:
 
+Including **high-quality image recovery (denoising, debluring and super-resolution)** with a event camera, and **image restoration (deraining, desnowing, dehazing, low-light enhancement)** in severe weather 
+
 ## Contents
 
-* [Deraining](#deraining)
+* [EventCamera](#eventcamera:camera:)
+* [Deraining](#deraining:cloud_with_lightning_and_rain:)
 * [Desnowing](#desnowing)
 * [Dehazing](#dehazing)
 * [Low-light Enhancement](#low-light-enhancement)
+
+## Event​C​a​m​e​ra:camera:
+
+<div  align="center">    
+<img src="figs/event/withoutSR-syn.jpg" width = "800"  alt="haha" align=center />   
+<img src="figs/event/withoutSR-real.jpg" width = "800"  alt="haha" align=center />       
+</div>
+
+<div  align="center">    
+Without super-resolution on synthetic (top) and real data (bottom)
+</div>
+
+<div  align="center">    
+<img src="figs/event/withSR-syn.jpg" width = "800"  alt="haha" align=center />   
+<img src="figs/event/withSR-real.jpg" width = "800"  alt="haha" align=center />       
+</div>
+
+<div  align="center">    
+With super-resolution on synthetic (top) and real data (bottom)
+</div>
+
+<div  align="center">    
+<img src="figs/event/HFR-real.jpg" width = "800"  alt="haha" align=center />         
+</div>
+
+<div  align="center">    
+High frame-rate video reconstruction 
+</div>
+
+<video id="video" controls="" preload="none"  poster="http://media.w3.org/2010/05/sintel/poster.png">
+  <source id="mp4" src="figs/event/demo_video.mp4">
+</video>
 
 ## Deraining:cloud_with_lightning_and_rain:
 
@@ -21,12 +56,11 @@ On synthesized images
 </div>
 
 <div  align="center">    
-<img src="figs/derain/real1.png" width = "800"  alt="haha" align=center />  
-<img src="figs/derain/real2.png" width = "800"  alt="haha" align=center />
+<img src="figs/derain/real.jpg" width = "800"  alt="haha" align=center />  
 </div>
 
 <div  align="center">    
-<img src="figs/derain/real5.png" width = "800"  alt="haha" align=center />  
+<img src="figs/derain/real5.jpg" width = "800"  alt="haha" align=center />  
 </div>
 
 <div  align="center">    
