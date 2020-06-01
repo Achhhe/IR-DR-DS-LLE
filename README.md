@@ -40,7 +40,7 @@ With super-resolution on synthetic (top) and real data (bottom)
 High frame-rate video reconstruction 
 </div>
 
-<video id="video" controls="" preload="none"  poster="http://media.w3.org/2010/05/sintel/poster.png">
+<video id="video" controls="" preload="none"   poster="http://media.w3.org/2010/05/sintel/poster.png">
   <source id="mp4" src="figs/event/demo_video.mp4">
 </video>
 
