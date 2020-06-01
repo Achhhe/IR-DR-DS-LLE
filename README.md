@@ -6,8 +6,8 @@ Including **high-quality image recovery (denoising, debluring and super-resoluti
 
 ## Contents
 
-* [EventCamera](#eventcamera:camera:)
-* [Deraining](#deraining:cloud_with_lightning_and_rain:)
+* [EventCamera](#eventcamera)
+* [Deraining](#deraining)
 * [Desnowing](#desnowing)
 * [Dehazing](#dehazing)
 * [Low-light Enhancement](#low-light-enhancement)
