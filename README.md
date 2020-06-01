@@ -2,7 +2,7 @@
 
 **Recent works on image restoration** :smile:
 
-Including **high-quality image recovery (denoising, debluring and super-resolution)** with a event camera, and **image restoration (deraining, desnowing, dehazing, low-light enhancement)** in severe weather 
+Including **high-quality image recovery (denoising, debluring and super-resolution)** with a event camera DAVIS240, and **image restoration (deraining, desnowing, dehazing, low-light enhancement)** in severe weather 
 
 ## Contents
 
